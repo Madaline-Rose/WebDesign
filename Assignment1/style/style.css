@@ -1,7 +1,7 @@
 h1 {
   padding: 35px;
   text-align: center;
-  background-color: snow;
+  background-color: olive;
 }
 
 h2, h3 {
@@ -9,5 +9,10 @@ h2, h3 {
 }
 
 body {
-  background-color: powderblue;
+  background-color: tan;
+}
+
+p {
+max-width: 60%; /* paragraph never gets wider than 60% of the screen */
+margin: 0 auto; /* centers it horizontally */
 }
