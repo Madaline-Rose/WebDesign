@@ -24,10 +24,14 @@ h2 {
 
 .inspired {
   max-width: 900px;
-  margin: 0 auto;
+  margin: 40px auto;
   background-color: lightgray;
   padding: 25px;
   text-align: center;
+}
+
+.inspired h2 {
+  margin: 0;
 }
 
 
