@@ -1,14 +1,32 @@
 body {
-  background-color: #d2b48c;
+  background-color: #d8c3a5;
   font-family: Georgia, serif;
   margin: 0;
   padding: 40px 0;
 }
 
-header {
+.header {
   max-width: 900px;
   margin: 0 auto 40px auto;
   text-align: center;
+
+  background-image: url("image/hobbit.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  padding: 80px 40px;
+  border-radius: 20px;
+  position: relative;
+}
+
+.header h2 {
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.4);
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 0;
 }
 
 h1 {
@@ -50,7 +68,6 @@ h3 {
   border-radius: 40px;
 }
 
-
 p,
 ul {
   line-height: 1.6;
@@ -61,9 +78,27 @@ ul {
   padding-left: 20px;
 }
 
-li {
-  list-style-type: none;
-  color: #000080;
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+nav li {
   display: inline-block;
-  font-family: Georgia, serif;
+  margin: 0 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #80000b;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #808000;
+  color: white;
 }
