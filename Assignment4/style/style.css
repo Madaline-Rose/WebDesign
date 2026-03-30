@@ -112,3 +112,14 @@ body {
 .nav a:hover {
   color: #6b5cff;
 }
+
+.footer-links {
+  display: flex;
+  gap: 15px;
+}
+
+.footer-links img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
