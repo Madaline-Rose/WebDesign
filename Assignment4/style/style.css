@@ -113,13 +113,22 @@ body {
   color: #6b5cff;
 }
 
-.footer-links {
+.footer {
   display: flex;
-  gap: 15px;
+  align-items: center;
+  justify-content: center; 
+  position: relative;
+  padding: 20px;
+  background-color: #eaeaea; 
 }
 
-.footer-links img {
-  width: 24px;
-  height: 24px;
-  object-fit: contain;
+.social-icons {
+  display: flex;
+  gap: 15px;
+  position: absolute;
+  left: 20px;
+}
+
+.copyright {
+  text-align: center;
 }
