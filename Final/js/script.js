@@ -7,5 +7,8 @@ const facts = [
 
 function showFact() {
   const randomIndex = Math.floor(Math.random() * facts.length);
-  document.getElementById("factOutput").textContent = facts[randomIndex];
+  const output = document.getElementById("factOutput");
+
+  output.textContent = facts[randomIndex];
+  output.classList.add("show");
 }
