@@ -1,4 +1,75 @@
 
+# Black Cats Website
+
+## Project Overview
+
+This website explores the history, myths, and cultural perceptions of black cats. The goal is to challenge common superstitions while presenting black cats in a more positive and visually engaging way.
+
+The site is designed with a dark, minimal aesthetic to reflect the mystery and symbolism often associated with black cats.
+
+---
+
+## Pages Included
+
+This website includes 4 fully developed pages:
+
+- **Home (index.html)**  
+  Introduction to the theme of black cats and navigation to all sections.
+
+- **History (history.html)**  
+  Explores the cultural and historical meaning of black cats across different time periods.
+
+- **Gallery (gallery.html)**  
+  A visual collection of black cats using a grid layout with alternating text and images.
+
+- **Myths vs Reality (myths.html)**  
+  Breaks down common superstitions and compares them with factual information.
+
+---
+
+## Design & Features
+
+- Responsive layout for mobile and desktop
+- CSS Grid and Flexbox layouts
+- Hover effects and transitions
+- JavaScript interactive fact generator
+- Google Fonts for typography hierarchy
+- Hero section with overlay design
+- Consistent dark aesthetic with light contrast
+
+---
+
+## Final Reflection
+
+### 1. What’s something new you learned while building your site?
+
+I learned how to combine CSS Grid and Flexbox effectively to create structured layouts. I also learned how small CSS details like spacing, shadows, and hover effects can significantly change the feel of a website.
+
+---
+
+### 2. How did you balance creativity with usability?
+
+I used a dark, mysterious theme to match the topic of black cats, but I kept readability in mind by using high contrast text, clear headings, and consistent spacing. I avoided overdesigning so the site would still be easy to navigate.
+
+---
+
+### 3. What are you most proud of in your final project?
+
+I am most proud of the gallery layout and the interactive JavaScript fact feature. These parts made the website feel more engaging and less static.
+
+---
+
+### 4. How do you see yourself using these skills later on?
+
+I can see myself using these skills in future creative projects, especially in web design, digital storytelling, or media-related work. Understanding layout, structure, and user experience will be useful in many areas beyond this class. I don't believe at this time I will be pursueing a coding field but I believe I could use these skills for personal use or in the off chance I find myself in a career where these skills are needed. 
+
+---
+
+
+
+
+
+
 #Reflection
 
 ##What’s something new you learned while building your site
